@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755291751951",
+    "project_id": "nuance-c01f2",
+    "storage_bucket": "nuance-c01f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755291751951:android:ed6fbd493a03229730457a",
+        "android_client_info": {
+          "package_name": "com.example.nuances"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9w_5xM-vJB5_Qoym8Whuo0YcppI4mdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
